@@ -1,3 +1,4 @@
+/* jshint esversion: 6 */ 
 import React from 'react';
 
 const Contact = () => <h1>Contact</h1>;
